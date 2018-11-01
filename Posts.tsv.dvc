@@ -1,0 +1,13 @@
+cmd: python code/xml_to_tsv.py
+deps:
+- md5: c1fa36d90caa8489a317eee917d8bf03
+  path: data/Posts.xml
+- md5: 5b1d44d25ff148a90e6c40a1585fe68d
+  path: code/xml_to_tsv.py
+- md5: 17f591c0c65a450fd53b34ba0ac6df7b
+  path: code/conf.py
+md5: 62e1c54015c0041936a92be31a796adf
+outs:
+- cache: true
+  md5: 4f5fdd0258dbf93e879470ea096afaef
+  path: data/Posts.tsv

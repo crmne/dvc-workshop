@@ -1,2 +1,10 @@
 Posts.xml.tgz
 Posts.xml
+Posts.tsv
+posts
+Posts-test.tsv
+Posts-train.tsv
+matrix-train.p
+matrix-test.p
+model.p
+eval.txt

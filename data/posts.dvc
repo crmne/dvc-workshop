@@ -1,0 +1,5 @@
+md5: aabdd84b919e5aeedf584a76e980dbec
+outs:
+- cache: true
+  md5: f8fa628456a754d4280f6495d964fec3.dir
+  path: posts
